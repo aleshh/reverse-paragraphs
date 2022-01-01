@@ -1,0 +1,11 @@
+{
+  "name": "reverse-paragraphs",
+  "version": "0.0.1",
+  "description": "command line utility to reverse a text file by empty line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
